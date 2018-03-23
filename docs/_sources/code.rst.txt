@@ -1,5 +1,5 @@
 Auto Generated Documentation
 ============================
-.. automodule:: hw1
+.. automodule:: hw1_Toffler_Jake
 		:members:
 		:undoc-members:
